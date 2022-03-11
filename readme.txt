@@ -1,1 +1,1 @@
-# Hello-World-GitHub
+AIST2602 Workshop 6
